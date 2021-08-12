@@ -23,4 +23,5 @@ https://docs.aws.amazon.com/lightsail/
 
 ## Team Members
 Matthew Stepnowski (stepnowskim@wit.edu), Team Leader, Backend & Frontend Dev
+
 Tino Cheung (cheungt@wit.edu), Technical Documentor, Tester
