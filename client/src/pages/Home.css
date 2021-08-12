@@ -1,0 +1,29 @@
+.submit {
+    margin:50px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#newPostText {
+    font-size:12px;
+    width:50em;
+    height:3em;
+}
+ 
+.homePage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.homePage .post {
+    text-align: center;
+    border: 2px solid black;
+    margin:10px;
+    padding:5px;
+}
+
+.homePage .text {
+    margin:10px;
+}

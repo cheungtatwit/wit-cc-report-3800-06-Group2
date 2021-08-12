@@ -1,0 +1,28 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Navbar a {
+    display: flex;
+    flex-direction: row;
+    margin:10px;
+}
+
+.Navbar Hbutton {
+    margin:100px;
+}
+
+.Navbar test {
+    margin:100px;
+}
+
+.Navbar page:hover {
+    cursor: pointer;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
