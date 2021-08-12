@@ -13,3 +13,14 @@ Our social board app is a full stack developed application that has user feature
 
 ## System Architecture
 ![iamge info](https://i.imgur.com/1edU73m.png)
+
+## Deployment
+
+## Demo Video
+
+## Reference 
+https://docs.aws.amazon.com/lightsail/
+
+## Team Members
+Matthew Stepnowski (stepnowskim@wit.edu), Team Leader, Backend & Frontend Dev
+Tino Cheung (cheungt@wit.edu), Technical Documentor, Tester
