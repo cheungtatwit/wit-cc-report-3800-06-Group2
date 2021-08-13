@@ -39,10 +39,10 @@ Users Table
 8. Update the server endpoint ip in the front-end files to the static ip.
 
 9. Navigate to client/src/pages and change the ip on the following files and line numbers
-  1. Home.js Lines 22, 28 
-  2. Login.js Lines 18
-  3. Profile.js Lines 29,36
-  4. Register.js Lines 19
+    1. Home.js Lines 22, 28 
+    2. Login.js Lines 18
+    3. Profile.js Lines 29,36
+    4. Register.js Lines 19
 
 10. Build the file by navigating to the client folder and running "yarn build"
 11. Navigate to /opt/bitnami/apache/conf/bitnami and edit the file bitnami.conf
