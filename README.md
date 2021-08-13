@@ -12,7 +12,7 @@ Our social board app is a full stack developed application that has user feature
 5. Veiwing other user's profile and their post
 
 ## System Architecture
-![iamge info](https://i.imgur.com/X2NfPnv.png)
+![iamge info](https://i.imgur.com/UGzz6ZN.png)
 
 ## Deployment
 
