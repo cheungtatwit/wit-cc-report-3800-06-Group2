@@ -38,17 +38,17 @@ Users Table
 7. Create a static IP for the AWS Lightsail instance.
 8. Update the server endpoint ip in the front-end files to the static ip.
 
-Navigate to client/src/pages and change the ip on the following files and line numbers
-1. Home.js Lines 22, 28 
-2. Login.js Lines 18
-3. Profile.js Lines 29,36
-4. Register.js Lines 19
+9. Navigate to client/src/pages and change the ip on the following files and line numbers
+  1. Home.js Lines 22, 28 
+  2. Login.js Lines 18
+  3. Profile.js Lines 29,36
+  4. Register.js Lines 19
 
-9. Build the file by navigating to the client folder and running "yarn build"
-10. Navigate to /opt/bitnami/apache/conf/bitnami and edit the file bitnami.conf
-11. Change the DocumentRoot and Directory to point to your build folder path.
-12. Reset apache by running sudo /opt/bitnami/ctlscript.sh restart apache
-13. Navigate to the server folder and run "node index.js"
+10. Build the file by navigating to the client folder and running "yarn build"
+11. Navigate to /opt/bitnami/apache/conf/bitnami and edit the file bitnami.conf
+12. Change the DocumentRoot and Directory to point to your build folder path.
+13. Reset apache by running sudo /opt/bitnami/ctlscript.sh restart apache
+14. Navigate to the server folder and run "node index.js"
 
 ## Demo Video
 https://youtu.be/SAz4ugd1CcM
