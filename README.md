@@ -17,6 +17,7 @@ Our social board app is a full stack developed application that has user feature
 ## Deployment
 
 ## Demo Video
+https://youtu.be/SAz4ugd1CcM
 
 ## Reference 
 https://docs.aws.amazon.com/lightsail/
